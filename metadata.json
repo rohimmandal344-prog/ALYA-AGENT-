@@ -1,0 +1,6 @@
+{
+  "name": "Alya Assistant",
+  "description": "Production-ready native Android AI assistant featuring Alisa Mikhailovna Kujou (Alya) with real-time bidirectional Gemini Live voice conversation, user API key management, long-term memory, and device automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

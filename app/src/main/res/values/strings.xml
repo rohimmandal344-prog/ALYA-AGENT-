@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Alya Assistant</string>
+    <string name="accessibility_service_description">Enables Alya Assistant to perform honest device actions, such as navigation gestures (Back, Home, Recents, Notifications) and screen automation when granted by the user.</string>
+</resources>
